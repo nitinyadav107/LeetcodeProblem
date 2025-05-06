@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
@@ -58,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
