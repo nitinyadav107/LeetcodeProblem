@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Math
+|  |
+| ------- |
+| [3830-find-closest-person](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
