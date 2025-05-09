@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3830-find-closest-person](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3830-find-closest-person) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
