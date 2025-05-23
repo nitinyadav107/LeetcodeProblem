@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2048-build-array-from-permutation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2048-build-array-from-permutation) |
+| [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
 ## Matrix
 |  |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
