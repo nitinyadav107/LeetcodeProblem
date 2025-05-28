@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3639-zero-array-transformation-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3639-zero-array-transformation-i) |
 ## Simulation
 |  |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+## Enumeration
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
