@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
+| [0516-longest-palindromic-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Sorting
