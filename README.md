@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [1036-rotting-oranges](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1036-rotting-oranges) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
