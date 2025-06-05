@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
+| [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
+| [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
