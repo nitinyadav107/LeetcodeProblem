@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3194-find-words-containing-character) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0148-sort-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Merge Sort
 |  |
 | ------- |
