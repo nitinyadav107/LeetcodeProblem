@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0007-reverse-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
