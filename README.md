@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2427-first-letter-to-appear-twice) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2427-first-letter-to-appear-twice](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2427-first-letter-to-appear-twice) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
