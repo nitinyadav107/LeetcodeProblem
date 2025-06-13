@@ -15,7 +15,7 @@ class Solution {
             size++;
             head=head.next;
         }
-        System.out.print(size);
+       
         return size;
     }
     public ListNode swapNodes(ListNode head, int k) {
