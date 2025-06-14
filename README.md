@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0007-reverse-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
 | [3830-find-closest-person](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3830-find-closest-person) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Dynamic Programming
 |  |
