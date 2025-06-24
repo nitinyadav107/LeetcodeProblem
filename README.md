@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0148-sort-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
