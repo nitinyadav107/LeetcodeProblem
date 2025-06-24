@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0148-sort-list) |
+## Ordered Set
+|  |
+| ------- |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 <!---LeetCode Topics End-->
