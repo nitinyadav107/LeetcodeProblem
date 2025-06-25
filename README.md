@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3170-find-indices-with-index-and-value-difference-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Breadth-First Search
 |  |
