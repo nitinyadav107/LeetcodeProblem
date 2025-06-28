@@ -21,7 +21,7 @@ class Solution {
             int size=i-j+1;
             while(size-freq>k){
                 map.put(s.charAt(j),map.get(s.charAt(j))-1);
-                j++;
+                j++; 
                 size=i-j+1;
             }
             ans=Math.max(size,ans);  
