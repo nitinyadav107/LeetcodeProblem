@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0735-asteroid-collision) |
+| [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-buddy-strings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0889-buddy-strings) |
+| [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
 | [3639-zero-array-transformation-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3639-zero-array-transformation-i) |
 ## Trie
 |  |
