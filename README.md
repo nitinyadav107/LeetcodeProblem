@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1036-rotting-oranges) |
 ## Prefix Sum
 |  |
@@ -257,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
