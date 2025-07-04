@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0686-repeated-string-match) |
 | [0889-buddy-strings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0889-buddy-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
