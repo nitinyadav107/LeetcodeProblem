@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0735-asteroid-collision) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1036-rotting-oranges) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-buddy-strings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0889-buddy-strings) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
 | [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0148-sort-list) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2331-intersection-of-multiple-arrays](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2331-intersection-of-multiple-arrays) |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Recursion
 |  |
