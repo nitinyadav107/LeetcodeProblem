@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3639-zero-array-transformation-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3639-zero-array-transformation-i) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Simulation
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
 | ------- |
