@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3321-type-of-triangle) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 | [3639-zero-array-transformation-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3639-zero-array-transformation-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
 |  |
 | ------- |
