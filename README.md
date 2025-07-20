@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0686-repeated-string-match) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0007-reverse-integer) |
+| [0504-base-7](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0504-base-7) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2202-sum-of-k-mirror-numbers) |
