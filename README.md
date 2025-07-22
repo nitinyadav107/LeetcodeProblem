@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1813-maximum-erasure-value](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1813-maximum-erasure-value) |
 | [2048-build-array-from-permutation](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0889-buddy-strings) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1813-maximum-erasure-value](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1813-maximum-erasure-value) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
+| [1813-maximum-erasure-value](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Greedy
 |  |
