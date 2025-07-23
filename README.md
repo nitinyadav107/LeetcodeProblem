@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0735-asteroid-collision) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0686-repeated-string-match) |
 | [0889-buddy-strings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2497-maximum-matching-of-players-with-trainers) |
