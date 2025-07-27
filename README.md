@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0139-word-break) |
+| [0283-move-zeroes](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0283-move-zeroes) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
