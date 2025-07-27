@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0142-linked-list-cycle-ii](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0142-linked-list-cycle-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0148-sort-list) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0148-sort-list) |
 ## Ordered Set
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Recursion
