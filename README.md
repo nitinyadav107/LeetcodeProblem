@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0739-daily-temperatures) |
 | [0966-binary-subarrays-with-sum](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
