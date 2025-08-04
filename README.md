@@ -355,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/0021-merge-two-sorted-lists) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/nitinyadav107/LeetcodeProblem/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
